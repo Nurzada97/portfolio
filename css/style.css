@@ -1,0 +1,160 @@
+@font-face {
+    font-family: "Heebo";
+    src: url("../font/Heebo-VariableFont_wght.woff2") format("woff2"), url("../font/Heebo-VariableFont_wght.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+
+}
+body{
+    font-family:"Heebo" sans-serif;
+    font-size: 18px;
+     line-height: 1,5;
+}
+.header-menu{
+    list-style: none;
+}
+.header-menu-link{
+text-decoration: none;
+
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+
+color: #000000;
+}
+.about-headline{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 60px;
+color: #21243D;
+}
+.about-paragraph{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+
+}
+.file.doc{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+
+.posts-headline{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+display: flex;
+align-items: flex-end;
+color: #21243D;
+
+}
+.posts-link{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: right;
+
+color: #00A8CC;
+
+}
+.posts-headline{
+    
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 38px;
+color: #21243D;
+
+}
+.posts-table-cell{
+    
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+color: #21243D;
+
+}
+.posts-paragraph{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+}
+.featured-works-headline{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+color: #21243D;
+
+}
+.hfeatured-works-headline-2{
+    
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+
+color: #21243D;
+
+}
+.featured-works-table-cell{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 60px;
+/* identical to box height, or 333% */
+
+
+color: #FFFFFF;
+}
+.featured-works-paragraph{
+    
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+.featured-works-table-cell{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+/* Light */
+
+color: #8695A4;
+
+}
